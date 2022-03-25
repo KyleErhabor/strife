@@ -1,6 +1,6 @@
 # Strife
 
-A library for managing [Discord application commands](https://discord.com/developers/docs/interactions/application-commands)
+A library for handling [Discord application commands](https://discord.com/developers/docs/interactions/application-commands)
 with [Discljord](https://github.com/discljord/discljord).
 
 ## License

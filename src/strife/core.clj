@@ -9,7 +9,7 @@
   (map #(-> %
           (dissoc :fn)
           (update :autocomplete boolean)
-          (rename-keys {:required? :rqeuired
+          (rename-keys {:required? :required
                         :min :min_value
                         :max :max_value
                         :channels :channel-types})

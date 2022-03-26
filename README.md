@@ -3,6 +3,13 @@
 A library for handling [Discord application commands](https://discord.com/developers/docs/interactions/application-commands)
 with [Discljord](https://github.com/discljord/discljord).
 
+## Installation
+
+```clojure
+kyleerhabor/strife {:git/url "https://github.com/KyleErhabor/strife"
+                    :git/sha "..."}
+```
+
 ## License
 
 Copyright © 2022 Kyle Erhabor
